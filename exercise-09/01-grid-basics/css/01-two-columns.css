@@ -13,3 +13,10 @@ section {
 /* DO NOT TOUCH ANY STYLES ABOVE THIS LINE! */
 /* WRITE YOUR STYLES BELOW! 👇👇👇           */
 /* **************************************** */
+
+main {
+display: grid;
+grid-template-columns: 450px 450px;
+grid-gap: 20px;
+
+}
